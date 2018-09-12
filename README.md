@@ -1,4 +1,4 @@
-# My Name
+# SIZHE LIU
 
 ### I am an artist. This is my portfolio site.
 
